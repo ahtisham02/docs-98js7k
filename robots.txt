@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-g407mi.salamduit.xyz/sitemap.xml
